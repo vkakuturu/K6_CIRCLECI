@@ -5,6 +5,6 @@ workflows:
   load_test:
     jobs:
      - grafana/k6:
-          script: 1/Script01.js
+          script: Script01.js
 
 
