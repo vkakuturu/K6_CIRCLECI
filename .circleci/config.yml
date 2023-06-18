@@ -8,6 +8,3 @@ workflows:
           script: 1/Script01.js
 
 
-
-  git config --global user.email "vishnuamcat424@gmail.com"
-  git config --global user.name "vkakuturu"
